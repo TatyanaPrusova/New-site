@@ -1,0 +1,30 @@
+* {
+    margin: 5;
+    padding: 5;
+}
+
+.title {
+    color: brown;
+}
+
+.photo {
+    border: 6px solid red;
+    border-radius: 25px;
+}
+
+.text {
+    width: 500px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.heading {
+    text-align: center;
+    background-color: gray;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-bottom: 48px;
+    margin-top: 48px;
+}
